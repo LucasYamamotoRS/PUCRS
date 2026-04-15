@@ -20,9 +20,9 @@ O processo de engenharia de software utilizado será a metodologia ágil. E para
 ## Análise de Requisitos
 
 - ### Funcionais
-![Template - Fase 2 - Engenharia de Software2-2_page-0001](https://github.com/user-attachments/assets/4acb0646-559e-4321-9b52-d8fcedb2324e)
-- ### Requisitos não funcionais
 ![Template - Fase 2 - Engenharia de Software2-1_page-0001](https://github.com/user-attachments/assets/3358bb47-1021-4567-ab83-2ab1d48e1c03)
+- ### Requisitos não funcionais
+![Template - Fase 2 - Engenharia de Software2-2_page-0001](https://github.com/user-attachments/assets/4acb0646-559e-4321-9b52-d8fcedb2324e)
 
 ## User Story
 ![Template - Fase 2 - Engenharia de Software2-4_page-0001](https://github.com/user-attachments/assets/ee4a9fba-e4d6-48c1-83dd-14e8eb1d1848)![Template - Fase 2 - Engenharia de Software2-5_page-0001](https://github.com/user-attachments/assets/749b406a-27cd-4e2d-ba4d-ef8e1fa456d8)![Template - Fase 2 - Engenharia de Software2-6_page-0001](https://github.com/user-attachments/assets/eff4a9dc-6893-4115-8a61-808ff26e3184)
